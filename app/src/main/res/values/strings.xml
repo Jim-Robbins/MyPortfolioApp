@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- App title-->
+    <string name="app_name">My Portfolio App</string>
+    <!-- Header Text [Chr limit 20] -->
+    <string name="ui_my_nanodegree_apps">My Nanodegree Apps!</string>
+    <!-- Project Button Text [Chr limit 25] -->
+    <string name="btn_popular_movies">Popular Movies</string>
+    <string name="btn_stock_hawk">Stock Hawk</string>
+    <string name="btn_build_it_bigger">Build It Bigger</string>
+    <string name="btn_make_your_app_material">Make You App Material</string>
+    <string name="btn_go_ubiquitous">Go Ubiquitous</string>
+    <string name="btn_capstone">Capstone</string>
+    <!-- Toast Text -->
+    <string name="s_toast_message">This button will launch my <xliff:g id="projectName" example="Stock Hawk">%s</xliff:g> app!</string>
+</resources>
